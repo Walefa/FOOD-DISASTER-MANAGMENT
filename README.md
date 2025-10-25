@@ -425,10 +425,8 @@ FOOD-DISASTER-MANAGMENT/
 
 ## 📞 Support & Contact
 
-- **📧 Email**: [your-email@example.com]
 - **📱 Issues**: [GitHub Issues](https://github.com/Walefa/FOOD-DISASTER-MANAGMENT/issues)
 - **📖 Documentation**: [API Docs](http://localhost:8000/docs)
-- **🌐 Website**: [Project Homepage]
 
 ---
 
