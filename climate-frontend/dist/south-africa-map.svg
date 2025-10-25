@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <!-- Ocean background -->
+  <rect width="800" height="600" fill="#bae6fd"/>
+  
+  <!-- South Africa shape (simplified but recognizable) -->
+  <path d="M 200 300 
+           L 150 280 
+           L 120 320 
+           L 130 380 
+           L 180 420 
+           L 250 450 
+           L 350 460 
+           L 450 450 
+           L 550 420 
+           L 620 380 
+           L 680 340 
+           L 720 280 
+           L 710 240 
+           L 650 200 
+           L 550 180 
+           L 450 170 
+           L 350 180 
+           L 280 200 
+           L 230 240 
+           Z" 
+        fill="#f8fafc" 
+        stroke="#64748b" 
+        stroke-width="2"/>
+  
+  <!-- Major cities -->
+  <circle cx="150" cy="380" r="3" fill="#dc2626"/>
+  <text x="155" y="375" font-family="Arial" font-size="12" fill="#374151">Cape Town</text>
+  
+  <circle cx="450" cy="280" r="3" fill="#dc2626"/>
+  <text x="455" y="275" font-family="Arial" font-size="12" fill="#374151">Johannesburg</text>
+  
+  <circle cx="620" cy="340" r="3" fill="#dc2626"/>
+  <text x="625" y="335" font-family="Arial" font-size="12" fill="#374151">Durban</text>
+  
+  <circle cx="430" cy="260" r="2" fill="#dc2626"/>
+  <text x="435" y="255" font-family="Arial" font-size="10" fill="#374151">Pretoria</text>
+  
+  <circle cx="350" cy="380" r="2" fill="#dc2626"/>
+  <text x="355" y="375" font-family="Arial" font-size="10" fill="#374151">Port Elizabeth</text>
+  
+  <circle cx="380" cy="320" r="2" fill="#dc2626"/>
+  <text x="385" y="315" font-family="Arial" font-size="10" fill="#374151">Bloemfontein</text>
+</svg>
